@@ -4,7 +4,7 @@ import joblib
 
 # Load model
 #model = joblib.load("house_price_model.pkl")
-model_path = r"C:\Users\LENOVO\Desktop\House_price\house_price_model.pkl"
+model_path = "house_price_model.pkl"
 model = joblib.load(model_path)
 
 # Page config
@@ -78,3 +78,4 @@ with col2:
             st.write("✅ Large area significantly increased price.")
         elif area < 2000:
             st.write("ℹ️ Smaller area reduced the predicted price.")
+
