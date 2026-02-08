@@ -44,6 +44,6 @@ https://housepricepredictionsystem-njjr.streamlit.app
 
 ## Author
 
-Najari Umar Jibril
+Najari Umar Jibril - 
 Machine Learning Practitioner
 
