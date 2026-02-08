@@ -36,14 +36,13 @@ This project uses a Machine Learning model trained using Random Forest Regressor
 
 ## Run Locally
 
-```bash
 streamlit run house_price_app.py
 
-**# Live APP**
+## Live APP
 
 https://housepricepredictionsystem-njjr.streamlit.app
 
-**# Author**
+## Author
 
 Najari Umar Jibril
 Machine Learning Practitioner
